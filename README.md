@@ -13,7 +13,7 @@ This approach models microbial decomposition within a soil structure represented
 - **Diffusion Processes**: Includes the diffusion of organic compounds across the soil matrix.
 - **Machine Learning Integration**: Utilizes graph neural networks for spatially complex regions of the soil.
 
-## Installation
+## Get the code
 
 To get started, clone the repository:
 
