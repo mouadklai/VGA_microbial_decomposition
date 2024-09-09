@@ -1,10 +1,10 @@
 # Voxel-Based Approach for Simulating Microbial Decomposition of Organic Matter in Soil
 
-This project provides an implementation of a voxel-based approach for simulating microbial decomposition of organic matter in soil using 3D computed tomography (CT) images. The method focuses on the interaction between microbial dynamics and soil structure, leveraging numerical schemes and machine learning models.
+This project provides an implementation of a voxel-based approach for simulating microbial decomposition of organic matter in soil using 3D computed tomography (CT) images.
 
 ## Overview
 
-This approach models microbial decomposition within a soil structure represented by 3D voxel grids derived from CT images. The simulation incorporates biological and physical processes such as microbial growth, substrate consumption, and diffusion of organic matter, taking into account varying soil saturation levels.
+This approach models microbial decomposition within a soil structure represented by 3D voxel grids derived from CT images. The simulation incorporates biological and physical processes such as microbial growth, substrate consumption, taking into account diffusion of organic matter.
 
 ### Key Features
 
