@@ -10,9 +10,8 @@ This approach models microbial decomposition within a soil structure represented
 
 - **Voxel-Based Representation**: The soil structure is discretized into a grid of voxels based on 3D CT images.
 - **Microbial Dynamics**: Simulates microbial activity using numerical models informed by experimental data.
-- **Diffusion Processes**: Includes the diffusion of organic compounds across the soil matrix.
-- **Machine Learning Integration**: Utilizes graph neural networks for spatially complex regions of the soil.
-
+- **Diffusion Processes**: Includes the diffusion of organic compounds across the soil matrix using a simple Fick law (less computationnally epensive).
+- **Machine Learning Integration**: Uses machine learning to approximate diffusional conductance coefficients for pore network geometrical models. 
 ## Get the code
 
 To get started, clone the repository:
